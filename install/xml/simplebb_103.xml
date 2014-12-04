@@ -449,8 +449,8 @@ RewriteRule ^addpost/([0-9]+)(/?)$ index.php?do=addpost&cat=$1 [L]
 'forum_14'				=>	"-- Выберите категорию --",
 'forum_15'				=>	"Категория вашего форума",
 'forum_16'				=>	"Выбранная вами категория сайта будет использована в качестве корневой для форума.",
-'forum_17'				=>	"Use confirmation for new threads",
-'forum_18'				=>	"If you don't want to see new threads directly without moderator confirmation. You can activate this option,
+'forum_17'				=>	"Підтвердження для нових тем",
+'forum_18'				=>	"Ящо ви бажаєте, щоб нові теми проходили перевірку, то увімкніть цю опцію.",
 // SimpleBB
 ]]></add>
 		</operation>
@@ -489,8 +489,8 @@ RewriteRule ^addpost/([0-9]+)(/?)$ index.php?do=addpost&cat=$1 [L]
 'forum_14'				=>	"-- Оберіть категорію --",
 'forum_15'				=>	"Категорія вашого форуму",
 'forum_16'				=>	"Тільки основні категорії показані. Виберіть категорію, яку ви хочете використовувати в якості форуму.",
-'forum_17'				=>	"Use confirmation for new threads",
-'forum_18'				=>	"If you don't want to see new threads directly without moderator confirmation. You can activate this option,
+'forum_17'				=>	"Подтверждение для новых тем",
+'forum_18'				=>	"Включите эту опцию если вы хотите чтобы новые темы проходили проверку.",
 // SimpleBB
 ]]></add>
 		</operation>
